@@ -4,10 +4,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 8
-Title ""
+Title "When teensy met tiny"
 Date ""
-Rev ""
-Comp ""
+Rev "v0.1"
+Comp "Moolet"
 Comment1 ""
 Comment2 ""
 Comment3 ""
