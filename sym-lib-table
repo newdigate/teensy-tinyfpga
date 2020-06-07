@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy.lib)(options "")(descr ""))
+  (lib (name TinyFPGA_BX)(type Legacy)(uri ${KIPRJMOD}/TinyFPGA_BX.lib)(options "")(descr ""))
+)
